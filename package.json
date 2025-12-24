@@ -1,0 +1,24 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "This is React by Sandhya verma",
+  "keywords": [],
+  "homepage": "https://github.com/sandhya-verma13/React-tutorials#readme",
+  "bugs": {
+    "url": "https://github.com/sandhya-verma13/React-tutorials/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandhya-verma13/React-tutorials.git"
+  },
+  "license": "ISC",
+  "author": "Sandhya Verma",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
